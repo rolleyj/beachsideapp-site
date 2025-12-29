@@ -90,4 +90,7 @@
     z-index: -1;
     pointer-events: none;
   }
+  body.terms-page::before {
+    opacity: 0.2;
+  }
 }
